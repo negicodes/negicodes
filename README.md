@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yogendra+%F0%9F%91%8B;Founder+%40+DexterDome+%F0%9F%9A%80;Full-Stack+%26+AI+Developer;I+Ship+Products%2C+Not+Just+Code+%E2%9A%A1)](https://git.io/typing-svg)
@@ -136,6 +127,10 @@ AI fitness coach with personalized workout plans via Google Gemini API.
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=negicodes&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00d4aa&currStreakLabel=00FF88&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+
+<br/>
+
+[![Yogendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=negicodes&bg_color=0d1117&color=00ff88&line=00d4aa&point=00ff88&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
