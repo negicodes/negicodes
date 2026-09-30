@@ -23,8 +23,6 @@
 ```javascript
 const yogendra = {
   role        : "Founder @ DexterDome  |  Software Developer",
-  currently   : "🔨 Building AI SaaS for Indian freshers & job seekers",
-  working_at  : "BTPS Technologies — Node.js · Express · React",
   education   : "B.Tech CS & AI — PSIT Kanpur (2025)",
   openTo      : ["SDE Roles 💼", "Full-Stack Dev", "AI/ML Engineering"],
   funFact     : "I deployed a monetized SaaS before landing my first job 🎯",
